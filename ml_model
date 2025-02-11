@@ -12,3 +12,5 @@ def model2():
 
 def model3():
     print ("adding a new model 3")
+
+print("The model2 works best")
